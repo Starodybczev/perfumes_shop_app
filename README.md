@@ -1,7 +1,7 @@
 <div align="center">
   <h1>💄 Perfumes App — Frontend</h1>
   <p><strong>React + Redux Toolkit + SCSS</strong></p>
-  <img src="../assets/banner.png" alt="Perfumes App Frontend Banner" width="100%" />
+  <img src="../assets/HomePage.png" alt="Perfumes App Frontend Banner" width="100%" />
 
   <p>
     <img src="https://img.shields.io/badge/React-18.2.0-61DAFB?style=flat&logo=react" />
@@ -91,4 +91,5 @@ npm start
 ##🧑‍💻 Developer
 
 Frontend by Viktor Starodubcev
+<br/>
 Focused on clean UI, reusable components, and efficient state management.
