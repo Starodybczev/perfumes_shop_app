@@ -1,8 +1,6 @@
 <div align="center">
   <h1>💄 Perfumes App — Frontend</h1>
   <p><strong>React + Redux Toolkit + SCSS</strong></p>
-  <img src="../assets/HomePage.png" alt="Perfumes App Frontend Banner" width="100%" />
-
   <p>
     <img src="https://img.shields.io/badge/React-18.2.0-61DAFB?style=flat&logo=react" />
     <img src="https://img.shields.io/badge/Redux%20Toolkit-1.9.5-764ABC?style=flat&logo=redux" />
