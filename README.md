@@ -2,7 +2,7 @@
 ---
 
 ## ⚙️ `server/README.md`
-```markdown
+
 <div align="center">
   <h1>⚙️ Perfumes App — Server</h1>
   <p><strong>Node.js + Express + SQL</strong></p>
